@@ -3,7 +3,6 @@ using namespace std;
 
 int main(){
 	cout<<"hello"<<endl;
-	cout<<"world"<<endl;
-	cout<<"commit"<<endl;
+	cout<<"GITHUB"<<endl;
 	return 0;
 }
